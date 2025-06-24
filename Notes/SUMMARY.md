@@ -23,4 +23,7 @@
 ## Shell script
 
 * [Memory Script](shell-script/memory-script/README.md)
-  * [Page 1](shell-script/memory-script/page-1.md)
+  * [Scripts 1](shell-script/memory-script/scripts-1.md)
+  * [scripts 2](shell-script/memory-script/scripts-2.md)
+  * [Basic Scripts](shell-script/memory-script/basic-scripts.md)
+  * [Assignments](shell-script/memory-script/assignments.md)
