@@ -21,3 +21,8 @@
 * [Day 3](day-3.md)
 * [Day 4](day-4.md)
 * [Kill signal](kill-signal.md)
+
+## Shell script
+
+* [Memory Script](shell-script/memory-script/README.md)
+  * [Page 1](shell-script/memory-script/page-1.md)
