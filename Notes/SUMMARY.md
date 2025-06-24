@@ -1,7 +1,5 @@
 # Table of contents
 
-## Infra Setup
-
 ## June 25 Daily class Notes
 
 * [Infra Set up](README.md)
