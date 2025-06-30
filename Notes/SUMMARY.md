@@ -23,3 +23,5 @@
   * [scripts 2](june-25-daily-class-notes/shell-script/scripts-2.md)
   * [Assignments](june-25-daily-class-notes/shell-script/assignments.md)
   * [Real-Time Shell-Scripts Usecases With Example Codes](june-25-daily-class-notes/shell-script/real-time-shell-scripts-usecases-with-example-codes.md)
+* [Version control system](june-25-daily-class-notes/version-control-system/README.md)
+  * [Git](june-25-daily-class-notes/version-control-system/git.md)
