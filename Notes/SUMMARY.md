@@ -30,3 +30,5 @@
   * [Version Control Systems](june-25-daily-class-notes/version-control-system/version-control-systems.md)
   * [Git Work Flow](june-25-daily-class-notes/version-control-system/git-work-flow.md)
   * [Git and GitHub](june-25-daily-class-notes/version-control-system/git-and-github.md)
+  * [Git Branching Strategy](june-25-daily-class-notes/version-control-system/git-branching-strategy.md)
+  * [Git Cheat Sheet](june-25-daily-class-notes/version-control-system/git-cheat-sheet.md)
