@@ -32,3 +32,7 @@
   * [Git and GitHub](june-25-daily-class-notes/version-control-system/git-and-github.md)
   * [Git Branching Strategy](june-25-daily-class-notes/version-control-system/git-branching-strategy.md)
   * [Git Cheat Sheet](june-25-daily-class-notes/version-control-system/git-cheat-sheet.md)
+  * [Git Reset and Revert](june-25-daily-class-notes/version-control-system/git-reset-and-revert.md)
+  * [Git reset](june-25-daily-class-notes/version-control-system/git-reset.md)
+  * [Git Revert, Checkout and Reset Diff](june-25-daily-class-notes/version-control-system/git-revert-checkout-and-reset-diff.md)
+  * [GIt revert](june-25-daily-class-notes/version-control-system/git-revert.md)
